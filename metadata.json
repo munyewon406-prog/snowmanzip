@@ -1,0 +1,7 @@
+{
+  "name": "SnowmanDex",
+  "description": "An AI-powered Pokedex for collecting and analyzing snowmen found in the wild.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
